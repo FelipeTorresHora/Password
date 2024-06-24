@@ -1,0 +1,16 @@
+Senhas cadastradas:
+
+ama | fh | 123
+ama | fe | 123
+AMA | fe | 123
+ama | fe | 123
+ama | fe | 123
+ama | fe | 123
+jon | j | 1
+ama | fe | 123
+fe | aa | 123
+am | fe | 123
+am | fe | 1323
+ama | fe | 123
+AM | FE | 13
+AA | 123 | 123
